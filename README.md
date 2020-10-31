@@ -1,5 +1,3 @@
-# Covid charts
-
 Enjoy!
 
 ![](images/DS_total_cases.png)
