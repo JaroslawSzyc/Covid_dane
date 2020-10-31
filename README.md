@@ -7,3 +7,6 @@ Enjoy!
 
 ![](images/DS_LJBZ_cases.png)
 
+W wypadku Legnicy i Jeleniej widzimy sumę diagnoz dodatnich z powiatu grodzkiego i ziemskiego 
+(Bolesławiec i Zgorzelec nie są miastami na prawach powiatu) 
+
