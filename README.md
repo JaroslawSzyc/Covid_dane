@@ -1,5 +1,9 @@
-# Page_1
+# Covid charts
 
-Hello, Za Wurdo!
+Enjoy!
 
-![](images/20180102_205636.jpg)
+![](images/DS_total_cases.png)
+
+
+![](images/DS_LJBZ_cases.png)
+
