@@ -1,3 +1,5 @@
 # Page_1
 
-Ale krzywa akcja
+Hello, Za Wurdo!
+
+![](images/20180102_205636.jpg)
