@@ -2,6 +2,10 @@
 
 # Na Dolnym Śląsku (aktualne):
 
+![](images/geo_1.png)
+
+
+
 ![](images/DS_total_cases.png)
 
 
@@ -10,6 +14,7 @@
 W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i powiatu.
 
 (Bolesławiec i Zgorzelec mają tylko powiat) 
+
 
 # W Polsce (dane na wczoraj):
 
