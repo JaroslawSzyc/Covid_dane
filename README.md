@@ -1,8 +1,5 @@
 # Wizualizacja Covid-19
 
-Example
-
-
 02.11.20r.
 
 # Na Dolnym Śląsku (aktualne):
