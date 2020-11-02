@@ -34,3 +34,12 @@ Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. D
 ![](images/PL_regression.png)
 
 Współczynnik R-kwadrat wynosi ok. 0.9776, zatem jest to dość dobrze dopasowany model.
+
+
+
+
+Źródła danych:
+
+https://www.duw.pl/pl/dla-mediow/aktualnosci-covid-19
+
+https://ourworldindata.org/coronavirus/country/poland?country=~POL
