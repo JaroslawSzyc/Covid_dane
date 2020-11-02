@@ -1,6 +1,6 @@
----
-title-heading: false
----
+# Wizualizacja Covid-19
+
+Example
 
 
 02.11.20r.
