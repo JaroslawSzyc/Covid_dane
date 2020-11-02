@@ -1,4 +1,4 @@
-01.11.20r.
+02.11.20r.
 
 # Na Dolnym Śląsku (aktualne):
 
@@ -7,9 +7,9 @@
 
 ![](images/DS_LJBZ_cases.png)
 
-W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z powiatu grodzkiego i ziemskiego.
+W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i powiatu.
 
-(Bolesławiec i Zgorzelec nie są miastami na prawach powiatu) 
+(Bolesławiec i Zgorzelec mają tylko powiat) 
 
 # W Polsce (dane na wczoraj):
 
