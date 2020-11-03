@@ -16,7 +16,11 @@ W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i po
 (Bolesławiec i Zgorzelec mają tylko powiat) 
 
 
-# W Polsce (dane na wczoraj):
+# W Polsce:
+
+Tutaj mamy inny sposób oznaczenia danych
+
+tj. data wskazująca na 2. października dotyczy informacji ogłoszonych przez ministerstwo 1. października. 
 
 ![](images/PL_total_cases.png)
 
