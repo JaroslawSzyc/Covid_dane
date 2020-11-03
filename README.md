@@ -1,4 +1,4 @@
-02.11.20r.
+03.11.20r.
 
 # Na Dolnym Śląsku (aktualne):
 
@@ -33,7 +33,14 @@ Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. D
 
 ![](images/PL_regression.png)
 
-Współczynnik R-kwadrat wynosi ok. 0.9776, zatem jest to dość dobrze dopasowany model.
+Współczynnik R-kwadrat wynosi ok. 0.976, zatem jest to dość dobrze dopasowany model.
+
+![](images/PL_positive.png)
+
+Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną linią wskazany jest poziom 5%, który w maju WHO uznało za 'zbyt wysoki', aby zacząć łagodzić zastosowane restrykcje sanitarne. Zachęcam do zapoznania się z oryginalnym artykułem: 
+
+https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html
+
 
 
 
