@@ -27,7 +27,7 @@ Aby lepiej zrozumieć tempo wzrostu dziennych zakażeń, zobaczmy jak to wygląd
 
 ![](images/PL_new_cases_log.png)
 
-Dostrzegamy tu od mniej więcej drugiego tygodnia września wyraźny trend liniowy. Oznacza to, że mamy do czynienia ze wzrostem wykładniczym.
+Dostrzegamy tu od ok. 2. tygodnia września wyraźny trend liniowy. Oznacza to, że mamy do czynienia ze wzrostem wykładniczym.
 
 Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. Dla przeskalowanych danych wyznaczymy prostą regresji metodą najmniejszych kwadratów. 
 
@@ -37,7 +37,7 @@ Współczynnik R-kwadrat wynosi ok. 0.976, zatem jest to dość dobrze dopasowan
 
 ![](images/PL_positive.png)
 
-Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną linią wskazany jest poziom 5%, który w maju WHO uznało za 'zbyt wysoki', aby zacząć łagodzić zastosowane restrykcje sanitarne. Zachęcam do zapoznania się z oryginalnym artykułem: 
+Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną linią wskazany jest poziom 5%, który w maju WHO uznało za 'zbyt wysoki', aby zacząć łagodzić zastosowane restrykcje sanitarne. Więcej informacji w artykule: 
 
 https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html
 
