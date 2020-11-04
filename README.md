@@ -43,7 +43,8 @@ Współczynnik R-kwadrat wynosi ok. 0.9756, zatem jest to dość dobrze dopasowa
 
 Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną linią wskazany jest poziom 5%, który w maju WHO uznało za 'zbyt wysoki', aby zacząć łagodzić zastosowane restrykcje sanitarne. Więcej informacji w artykule: 
 
-https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html
+[www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html](https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html)
+
 
 
 
@@ -51,6 +52,7 @@ https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-perce
 
 Źródła danych:
 
-https://www.duw.pl/pl/dla-mediow/aktualnosci-covid-19
+[www.duw.pl/pl/dla-mediow/aktualnosci-covid-19](https://www.duw.pl/pl/dla-mediow/aktualnosci-covid-19)
 
-https://ourworldindata.org/coronavirus/country/poland?country=~POL
+[ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus/country/poland?country=~POL)
+
