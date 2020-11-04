@@ -1,6 +1,6 @@
 04.11.20r.
 
-# Na Dolnym Śląsku (aktualne):
+# Na Dolnym Śląsku:
 
 ![](images/geo_1.png)
 
