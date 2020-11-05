@@ -2,7 +2,7 @@
 
 # Na Dolnym Śląsku:
 
-![](images/geo_1.png)
+![](images/geo_2.png)
 
 
 
