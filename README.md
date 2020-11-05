@@ -4,11 +4,6 @@
 
 ![](images/geo_2.png)
 
-
-
-![](images/DS_total_cases.png)
-
-
 ![](images/DS_WJL_cases.png)
 
 ![](images/DS_LJBZ_cases.png)
@@ -17,6 +12,7 @@ W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i po
 
 (Bolesławiec i Zgorzelec mają tylko powiat) 
 
+![](images/DS_total_cases.png)
 
 # W Polsce:
 
