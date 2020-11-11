@@ -2,6 +2,8 @@
 
 # Na Dolnym Śląsku:
 
+![](images/top10.png)
+
 ![](images/geo_2.png)
 
 ![](images/DS_WJL_cases.png)
