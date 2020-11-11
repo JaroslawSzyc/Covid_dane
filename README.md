@@ -16,9 +16,7 @@ W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i po
 
 # W Polsce:
 
-Tutaj mamy inny sposób oznaczenia danych
-
-tj. data wskazująca na 2. października dotyczy informacji ogłoszonych przez ministerstwo 1. października. 
+Dane do wczoraj.
 
 ![](images/PL_total_cases.png)
 
