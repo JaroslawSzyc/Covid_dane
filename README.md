@@ -1,4 +1,4 @@
-11.11.20r.
+12.11.20r.
 
 # Na Dolnym Śląsku:
 
@@ -35,7 +35,7 @@ Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. D
 
 ![](images/PL_regression.png)
 
-Współczynnik R-kwadrat wynosi ok. 0.9763, zatem jest to dość dobrze dopasowany model.
+Współczynnik R-kwadrat wynosi ok. 0.9739, zatem jest to dość dobrze dopasowany model.
 
 ![](images/PL_positive.png)
 
