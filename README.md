@@ -1,4 +1,4 @@
-12.11.20r.
+13.11.20r.
 
 # Na Dolnym Śląsku:
 
@@ -29,7 +29,7 @@ Aby lepiej zrozumieć tempo wzrostu dziennych zakażeń, zobaczmy jak to wygląd
 
 ![](images/PL_new_cases_log.png)
 
-Dostrzegamy tu od ok. 2. tygodnia września wyraźny trend liniowy. Oznacza to, że mamy do czynienia ze wzrostem wykładniczym.
+Dostrzegamy tu od ok. 2. tygodnia września do 1. tygodnia listopada wyraźny trend liniowy. Oznacza to, że mamy do czynienia ze wzrostem wykładniczym.
 
 Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. Dla przeskalowanych danych wyznaczymy prostą regresji metodą najmniejszych kwadratów. 
 
