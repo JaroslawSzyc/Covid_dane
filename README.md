@@ -37,6 +37,8 @@ Możemy dopasować funkcję do tych danych, aby lepiej zrozumieć to zjawisko. D
 
 Współczynnik R-kwadrat wynosi ok. 0.9739, zatem jest to dość dobrze dopasowany model.
 
+Obecnie, według powyższych danych wynika, że przeszliśmy do trendu liniowego, ale należy mieć na uwadze, że od początku listopada ogłoszono zmiany w wytycznych dotyczących robienia testów. 
+
 ![](images/PL_positive.png)
 
 Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną linią wskazany jest poziom 5%, który w maju WHO uznało za 'zbyt wysoki', aby zacząć łagodzić zastosowane restrykcje sanitarne. Więcej informacji w artykule: 
