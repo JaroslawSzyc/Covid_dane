@@ -46,7 +46,7 @@ Tutaj widzimy ile procent wykonywanych testów ma wynik dodatni. Czerwoną lini�
 [www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html](https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html)
 
 
-
+![](images/PL_total_deaths.png)
 
 
 
