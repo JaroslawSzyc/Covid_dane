@@ -1,4 +1,4 @@
-24.11.20r.
+23.11.20r.
 
 # Dolny Śląsk:
 
@@ -28,8 +28,6 @@ W wypadku Legnicy i Jeleniej Góry widzimy sumę diagnoz dodatnich z miasta i po
 Niestety, ale na Dolnym Śląsku tempo wzrostu liczby zakażeń zdaje się nie maleć w znaczący sposób.
 
 # W Polsce:
-
-Dane do wczoraj.
 
 ![](images/PL_total_cases.png)
 
